@@ -1,0 +1,29 @@
+
+@media (max-width: 429px) {
+    .badge {
+      font-size: 11px;
+      line-height: 17px;
+    }
+}
+
+@media (min-width: 430px) {
+    .badge {
+      font-size: 12px;
+      line-height: 18px;
+    }
+}
+
+.badge {
+    font-family: montserrat-light;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 4px;
+    margin: 2px 2.5px;
+    color: #fff;
+
+    .tooltip {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+}

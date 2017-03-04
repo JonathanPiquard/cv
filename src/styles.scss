@@ -1,0 +1,54 @@
+
+html {
+    display: flex;
+    overflow-x: hidden;
+    background-color: #1c1a1a;
+    font-family: montserrat-light, monserrat, vera, 'sans-serif';
+    font-size: 13px;
+    line-height: 20px;
+
+    body, #root, #app {
+        flex: 1;
+        margin: auto;
+    }
+}
+
+
+::selection {
+    background: rgba(154,154,154,.4);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: montserrat-bold;
+    src: url(/fonts/Montserrat/Montserrat-Bold.otf);
+}
+
+@font-face {
+    font-family: montserrat;
+    src: url(/fonts/Montserrat/Montserrat-Regular.otf);
+}
+
+@font-face {
+    font-family: montserrat-light;
+    src: url(/fonts/Montserrat/Montserrat-Light.otf);
+}
+
+@font-face {
+    font-family: montserrat-extralight;
+    src: url(/fonts/Montserrat/Montserrat-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: vera;
+    src: url(/fonts/Vera/Vera-Bold.ttf);
+}
