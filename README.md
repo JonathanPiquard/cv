@@ -1,12 +1,13 @@
 
 # cv
 
-Want to see it ? Well : webconception.fr/cv
+Want to see it ? https://webconception.fr/cv
 
 
 # Install
 
 npm install
+
 npm start
 
-=> localhost:1337
+Server running at http://localhost:1337
