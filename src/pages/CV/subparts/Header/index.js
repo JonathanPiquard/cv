@@ -22,7 +22,7 @@ class Header extends Component {
                 <a href='https://webconception.fr/cv'>Version Web | webconception.fr/cv</a>
               </h4>
               <h4>
-                <a href='github.com/john/cv'>Code Source | github.com/john/cv</a>
+                <a href='"https://github.com/JonathanPiquard/cv.git'>Code Source | github.com/JonathanPiquard/cv</a>
               </h4>
               <BadgeList details={technologiesDetails} badges={['React', 'Webpack v2', 'ES6', 'SASS']} />
             </div>

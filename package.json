@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A beautiful CV, responsive and dynamic, for a front-end developper",
   "main": "./src/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/JonathanPiquard/cv.git"
+  },
   "scripts": {
     "build": "webpack --progress --colors",
     "start": "webpack-dev-server --progress --inline --color"
