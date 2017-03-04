@@ -9,4 +9,4 @@ Want to see it ? Well : webconception.fr/cv
 npm install
 npm start
 
-=> localhost:1337/
+=> localhost:1337
