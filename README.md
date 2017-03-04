@@ -8,17 +8,19 @@ The technologies at work are : Webpack 2, React, SCSS. All the code is written a
 
 I'm available to recruit ^^ And I'm also a freelancer, you can check out my website [Web Conception](https://webconception.fr/).
 
+PS: The website is in french as well as the CV. All the code is written in english.
+
 ### Installing
 ```
 npm install
 npm start
 ```
-Server running at http://localhost:1337
+Server running at [localhost:1337](http://localhost:1337/)
 
-## Authors
+### Author
 
 **[Jonathan Piquard](https://github.com/PiquardJonathan)**
 
-## License
+### License
 
-This project is licensed under the Creative Commons Licence (CC-BY-NC-SA-4.0)- see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons Licence (CC-BY-NC-SA-4.0) - see the [LICENSE.md](LICENSE.md) file for details
