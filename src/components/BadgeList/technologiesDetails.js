@@ -38,7 +38,7 @@ const technologiesDetails = {
   },
   'Relay': {
     website: 'https://facebook.github.io/relay/',
-    description: 'A Javscript framework for building data-driven React applications'
+    description: 'A Javascript framework for building data-driven React applications'
   },
   'Socket.io': {
     website: 'http://socket.io/',
@@ -57,7 +57,7 @@ const technologiesDetails = {
     description: 'A library for creating functional collections of immutable data'
   },
   'GitHub': { website: 'https://github.com/',
-    description: 'Online project hosting using Git'
+    description: 'An online project hosting using Git'
   },
   'Angular': {
     website: 'https://angularjs.org/',
@@ -113,11 +113,11 @@ const technologiesDetails = {
   },
   'CodeMirror': {
     website: 'https://codemirror.net/',
-    description: 'A in-browser code editor'
+    description: 'An in-browser code editor'
   },
   'Passport.js': {
     website: 'http://passportjs.org/',
-    description: 'A authentication middleware for Node.js'
+    description: 'An authentication middleware for Node.js'
   },
   'Karma': {
     website: 'https://karma-runner.github.io/',

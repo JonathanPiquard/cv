@@ -8,6 +8,7 @@ import { AppContainer } from 'react-hot-loader';
 import App from './App';
 import styles from './styles.scss';
 
+
 const render = (Component) => {
   ReactDOM.render(
     <AppContainer>
