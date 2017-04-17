@@ -19,7 +19,7 @@ Server running at [localhost:1337](http://localhost:1337/)
 
 ### Author
 
-**[Jonathan Piquard](https://github.com/PiquardJonathan)**
+**[Jonathan Piquard](https://github.com/JonathanPiquard)**
 
 ### License
 
