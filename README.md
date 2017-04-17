@@ -1,7 +1,7 @@
 
 # cv
 
-It's beautiful curriculum vitae, responsive and dynamic, for a front-end developper !
+It's beautiful curriculum vitae, responsive and dynamic, for a web developper !
 The technologies at work are : Webpack 2, React, SCSS. All the code is written according to the ES6 standard.
 
 [Want to see it ?](https://webconception.fr/cv)

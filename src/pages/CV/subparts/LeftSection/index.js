@@ -70,7 +70,7 @@ class LeftSection extends Component {
               <p className='category-item-description'>| CLES 2</p>
             </div>
             <div className='category-item'>
-              <h4 className='category-item-title'>Espanol</h4>
+              <h4 className='category-item-title'>Espagnol</h4>
             </div>
           </div>
         </div>

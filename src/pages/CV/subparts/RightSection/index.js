@@ -56,7 +56,7 @@ class RightSection extends Component {
         <div id='otherSkills' className='category'>
           <h3 className='category-title'>Autres Compétences Techniques</h3>
           <div className='category-items'>
-            <BadgeList details={technologiesDetails} badges={['RxJs', 'D3 v4', 'Immutable.js', 'GitHub', 'FP en js', 'Karma', 'Jasmine', 'Phantomjs', 'jQuery UI']} />
+            <BadgeList details={technologiesDetails} badges={[/*'RxJs', 'D3 v4', 'Immutable.js',*/ 'GitHub', 'FP en js', 'Karma', 'Jasmine', 'Phantomjs', 'jQuery UI']} />
           </div>
         </div>
       </section>
