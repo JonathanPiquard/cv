@@ -41,7 +41,7 @@ class Header extends Component {
 
           </div>
 
-          <h2>Web Développeur</h2>
+          <h2>Développeur Web</h2>
 
         </div>
       </header>
