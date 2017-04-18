@@ -17,6 +17,10 @@ npm start
 ```
 Server running at [localhost:1337](http://localhost:1337/)
 
+### Todo
+
+I need to set two configurations of webpack : production and developpment. For now building for production is a bit messy.
+
 ### Author
 
 **[Jonathan Piquard](https://github.com/JonathanPiquard)**
