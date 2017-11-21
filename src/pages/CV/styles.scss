@@ -5,6 +5,10 @@
 
         > .category-title {
             font-size: 16px;
+
+            > .category-title-mention {
+                font-size: 15px;
+            }
         }
 
         >  .category-items {
@@ -43,6 +47,10 @@
 
         > .category-title {
             font-size: 18px;
+
+            > .category-title-mention {
+                font-size: 17px;
+            }
         }
 
         .category-item-title {
@@ -126,6 +134,10 @@
                 font-weight: normal;
                 text-transform: uppercase;
                 margin: 0;
+
+                > .category-title-mention {
+                    font-family: montserrat-light;
+                }
             }
 
             >  .category-items {
@@ -143,7 +155,7 @@
                 margin: 0;
 
                 > .category-item-title-mention {
-                    text-transform: lowercase;
+                    text-transform: initial;
                 }
             }
 

@@ -20,6 +20,10 @@ const technologiesDetails = {
     website: 'https://nodejs.org/en/',
     description: 'An Event-driven I/O server-side JavaScript environment based on Chrome\'s V8 JavaScript engine'
   },
+  'Apollo Client': {
+    website: 'https://www.apollographql.com/client/',
+    description: 'Apollo Client is an ultra-flexible, community-driven GraphQL client for React, JavaScript, and native platforms.'
+  },
   'RxJs': {
     website: 'http://reactivex.io/rxjs/',
     description: 'A library for reactive programming using Observables to compose asynchronous and event-based programs'
@@ -51,6 +55,10 @@ const technologiesDetails = {
   'Webpack v2': {
     website: 'https://webpack.js.org/',
     description: 'A module bundler for modern JavaScript applications'
+  },
+  'react-i18next': {
+    website: 'https://react.i18next.com/',
+    description: 'An addon for React (Native) based on the internationalization framework i18next'
   },
   'Immutable.js': {
     website: 'https://facebook.github.io/immutable-js/',

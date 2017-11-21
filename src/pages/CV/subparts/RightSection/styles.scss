@@ -4,10 +4,6 @@
         > #webProjects {
             padding: 20px;
         }
-
-        > #otherSkills {
-            padding: 20px;
-        }
     }
 }
 
@@ -16,27 +12,18 @@
         > #webProjects {
             padding: 46px;
         }
-
-        > #otherSkills {
-            padding: 46px;
-        }
     }
 }
 
 @media (min-width: 730px) {
     #rightSection {
         position: relative;
-        top: -50px;
-        margin-bottom: -50px;
-        padding-right: 32px;
+        top: -44px;
+        margin-bottom: -44px;
+        padding-right: 27px;
 
         > #webProjects {
-            padding: 22px 20px;
-        }
-
-        > #otherSkills {
-            margin-top: 5px;
-            padding: 21px 16px;
+            padding: 28px 32px;
         }
     }
 }
@@ -44,15 +31,11 @@
 #rightSection {
     display: flex;
     flex-direction: column;
-    flex: 1.45;
+    flex: 1.1;
     color: #fff;
 
     > #webProjects {
         background-color: #8acc98;
         color: #fff;
-    }
-
-    > #otherSkills {
-        color: #1a1818;
     }
 }
