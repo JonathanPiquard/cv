@@ -1,0 +1,107 @@
+{
+  "header": {
+    "web-version": "Version Web",
+    "source-code": "Code Source",
+    "email": {
+      "subject": "Candidature",
+      "hello": "Bonjour"
+    },
+    "phone-number": "07 81 01 81 33"
+  },
+
+  "leftSection": {
+    "about-me": {
+      "title": "A propos de moi",
+      "description": "Je suis un étudiant de 21 ans qui enchaine les projets, toujours en intégrant les dernières technologies, en assumant tous les postes."
+    },
+    "experience": {
+      "title": "Expérience",
+      "items": {
+        "rider": {
+          "title": "Coursier"
+        },
+        "micro-entrepreneur": {
+          "title": "Micro-entrepreneur",
+          "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel."
+        },
+        "computer-seller": {
+          "title": "Vendeur Informatique",
+          "season": "Eté"
+        },
+        "product-factor": {
+          "title": "Facteur de Production",
+          "season": "Etés"
+        }
+      }
+    },
+    "studies": {
+      "title": "Études",
+      "items": {
+        "M1-info": {
+          "title": "Master 1 Informatique",
+          "location": "Université de Grenoble"
+        },
+        "biology-licence": {
+          "title": "Licence en Sciences de la Vie",
+          "location": "Université de Strasbourg",
+          "description": "Mention Biologie Cellulaire et Physiologie des Organismes. CLES 2 Anglais."
+        },
+        "bac": {
+          "title": "Baccalauréat Scientifique",
+          "location": "Lycée St-Etienne"
+        }
+      }
+    },
+    "hobbies": {
+      "title": "Passions",
+      "items": {
+        "cyclism": "cyclisme",
+        "running": "course à pied",
+        "art": "art",
+        "literature": "littérature",
+        "philosophy": "philosophie",
+        "cinema": "cinéma",
+        "short-film": "court-métrage",
+        "sciences": "sciences"
+      }
+    },
+    "languages": {
+      "title": "Langues",
+      "items": {
+        "english": "Anglais",
+        "spanish": "Espagnol"
+      }
+    }
+  },
+
+  "rightSection": {
+    "title": "Projets",
+    "mention": "Développeur Web",
+    "items": {
+      "cinetic": {
+        "status": "En dév.",
+        "description": "Application mobile et web de composition d'équipe puis de gestion et conception de projets spécialisés dans le cinéma (puis à terme plus général : startup, groupe de musique, festival, club, ...)."
+      },
+      "scientific-poster": {
+        "title": "Affiche Scientifique",
+        "status": "terminée",
+        "description": "Synthèse de plusieurs articles scientifiques sur l'éthique en expérimentation humaine."
+      },
+      "webconception": {
+        "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel."
+      },
+      "talented": {
+        "status": "arrêté",
+        "description": "L'application mobile d'un réseau social de partage d'activités et de location d'équipements entre particuliers."
+      },
+      "gmao-tailor": {
+        "status": "arrêté",
+        "description": "Application web de Gestion de Maintenance Assistée par Ordinateur (GMAO), dynamique et intuitive, capable de s'adapter à des projets ciblés via une programmation visuelle orientée objet (UML)."
+      },
+      "headlings": {
+        "status": "arrêté",
+        "description": "Réseau social centré sur sa ville."
+      }
+    }
+  }
+}
