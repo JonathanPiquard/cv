@@ -12,7 +12,7 @@
   "leftSection": {
     "about-me": {
       "title": "About me",
-      "description": "I'm a 21 year old french student from Strasbourg who likes to sequence projects, by integrating always the last technologies and taking all positions."
+      "description": "I'm a 21 year old french student from Strasbourg who likes to sequence projects, always by integrating the last technologies and taking all positions."
     },
     "experience": {
       "title": "Experience",
@@ -64,43 +64,45 @@
         "short-film": "short-film",
         "sciences": "sciences"
       }
+    }
+  },
+
+  "rightSection": {
+    "webProjects": {
+      "title": "Projects",
+      "mention": "Web Developer",
+      "items": {
+        "cinetic": {
+          "status": "In dev.",
+          "description": "Logistic management application, project oriented."
+        },
+        "scientific-poster": {
+          "title": "Scientific Poster",
+          "status": "finished",
+          "description": "Synthesis of several scientific articles about ethics in human experimentation."
+        },
+        "webconception": {
+          "description": "Freelance : designing Websites, Native Mobile Applications and Softwares."
+        },
+        "talented": {
+          "status": "stopped",
+          "description": "The mobile application of a social network to share hobbies and rent equipment between private individuals."
+        },
+        "gmao-tailor": {
+          "status": "stopped",
+          "description": "Web application of Computer-assisted Maintenance Management, dynamic and intuitive, capable of adapting to any targeted projects via a object oriented visual programmation (UML like)."
+        },
+        "headlings": {
+          "status": "stopped",
+          "description": "Social network centered on your town."
+        }
+      }
     },
     "languages": {
       "title": "Languages",
       "items": {
         "english": "English",
         "spanish": "Spanish"
-      }
-    }
-  },
-
-  "rightSection": {
-    "title": "Projects",
-    "mention": "Web Developer",
-    "items": {
-      "cinetic": {
-        "status": "In dev.",
-        "description": "Web and mobile application to compose (or join) a team then manage and design films (thereafter, a more general app : startup, music group, festival, club, ...)."
-      },
-      "scientific-poster": {
-        "title": "Scientific Poster",
-        "status": "finished",
-        "description": "Synthesis of several scientific articles about ethics in human experimentation."
-      },
-      "webconception": {
-        "description": "Freelance : designing Websites, Native Mobile Applications and Softwares."
-      },
-      "talented": {
-        "status": "stopped",
-        "description": "The mobile application of a social network to share hobbies and rent equipment between private individuals."
-      },
-      "gmao-tailor": {
-        "status": "stopped",
-        "description": "Web application of Computer-assisted Maintenance Management, dynamic and intuitive, capable of adapting to any targeted projects via a object oriented visual programmation (UML like)."
-      },
-      "headlings": {
-        "status": "stopped",
-        "description": "Social network centered on your town."
       }
     }
   }

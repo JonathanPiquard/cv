@@ -27,25 +27,4 @@
     display: flex;
     flex-direction: column;
     flex: 1;
-    color: #1a1818;
-
-    #languages {
-        > .category-items {
-            display: flex;
-
-            > .category-item {
-                display: flex;
-                margin-top: 0;
-
-                > .category-item-description {
-                    margin-top: 0;
-                    margin-left: 7.5px;
-                }
-            }
-
-            > .category-item-with-description {
-                flex: 1;
-            }
-        }
-    }
 }

@@ -68,18 +68,6 @@ class LeftSection extends Component {
           </div>
         </div>
 
-        <div id='languages' className='category'>
-          <h3 className='category-title'>{t('leftSection.languages.title')}</h3>
-          <div className='category-items'>
-            <div className='category-item category-item-with-description'>
-              <h4 className='category-item-title'>{t('leftSection.languages.items.english')}</h4>
-              <p className='category-item-description'>| CLES 2</p>
-            </div>
-            <div className='category-item'>
-              <h4 className='category-item-title'>{t('leftSection.languages.items.spanish')}</h4>
-            </div>
-          </div>
-        </div>
       </section>
     );
   }

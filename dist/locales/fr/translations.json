@@ -64,43 +64,45 @@
         "short-film": "court-métrage",
         "sciences": "sciences"
       }
+    }
+  },
+
+  "rightSection": {
+    "webProjects": {
+      "title": "Projets",
+      "mention": "Développeur Web",
+      "items": {
+        "cinetic": {
+          "status": "En dév.",
+          "description": "Application de gestion logistique orientée projet."
+        },
+        "scientific-poster": {
+          "title": "Affiche Scientifique",
+          "status": "terminée",
+          "description": "Synthèse de plusieurs articles scientifiques sur l'éthique en expérimentation humaine."
+        },
+        "webconception": {
+          "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel."
+        },
+        "talented": {
+          "status": "arrêté",
+          "description": "L'application mobile d'un réseau social de partage d'activités et de location d'équipements entre particuliers."
+        },
+        "gmao-tailor": {
+          "status": "arrêté",
+          "description": "Application web de Gestion de Maintenance Assistée par Ordinateur (GMAO), dynamique et intuitive, capable de s'adapter à des projets ciblés via une programmation visuelle orientée objet (UML)."
+        },
+        "headlings": {
+          "status": "arrêté",
+          "description": "Réseau social centré sur sa ville."
+        }
+      }
     },
     "languages": {
       "title": "Langues",
       "items": {
         "english": "Anglais",
         "spanish": "Espagnol"
-      }
-    }
-  },
-
-  "rightSection": {
-    "title": "Projets",
-    "mention": "Développeur Web",
-    "items": {
-      "cinetic": {
-        "status": "En dév.",
-        "description": "Application mobile et web de composition d'équipe puis de gestion et conception de projets spécialisés dans le cinéma (puis à terme plus général : startup, groupe de musique, festival, club, ...)."
-      },
-      "scientific-poster": {
-        "title": "Affiche Scientifique",
-        "status": "terminée",
-        "description": "Synthèse de plusieurs articles scientifiques sur l'éthique en expérimentation humaine."
-      },
-      "webconception": {
-        "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel."
-      },
-      "talented": {
-        "status": "arrêté",
-        "description": "L'application mobile d'un réseau social de partage d'activités et de location d'équipements entre particuliers."
-      },
-      "gmao-tailor": {
-        "status": "arrêté",
-        "description": "Application web de Gestion de Maintenance Assistée par Ordinateur (GMAO), dynamique et intuitive, capable de s'adapter à des projets ciblés via une programmation visuelle orientée objet (UML)."
-      },
-      "headlings": {
-        "status": "arrêté",
-        "description": "Réseau social centré sur sa ville."
       }
     }
   }
