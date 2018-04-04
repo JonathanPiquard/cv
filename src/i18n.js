@@ -2,7 +2,6 @@ import i18n from 'i18next';
 import XHR from 'i18next-xhr-backend';
 import LanguageDetector from 'i18next-browser-languagedetector';
 
-
 export default
 i18n
   .use(XHR)
@@ -11,11 +10,11 @@ i18n
     fallbackLng: {
       'en-US': ['en'],
       'fr-FR': ['fr'],
-      default: ['en'],
+      default: ['en']
     },
     debug: true,
 
-    lng: 'en', //you can change it by hand or drop it and implement some buttons over the CV to handle language switching
+    lng: 'en', // you can change it by hand or drop it and implement some buttons over the CV to handle language switching
 
     // have a common namespace used around the full app
     ns: ['translations'],

@@ -17,20 +17,31 @@
     "experience": {
       "title": "Expérience",
       "items": {
+        "bonitasoft": {
+          "title": "Front-end Développeur - Stage",
+          "description": [
+            "Réimplementation et modernisation de l'application cliente avec ",
+            "_GWT_",
+            " React et Vuejs."
+          ],
+          "period": "Janvier - Juin 2018"
+        },
         "rider": {
-          "title": "Coursier"
+          "title": "Coursier",
+          "period": "Octobre 2017 - 2018"
         },
         "micro-entrepreneur": {
           "title": "Micro-entrepreneur",
-          "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel."
+          "description": "Freelance : Création de Site Internet, Application Mobile Native et Logiciel.",
+          "period": "Juin 2016"
         },
         "computer-seller": {
           "title": "Vendeur Informatique",
-          "season": "Eté"
+          "period": "Eté 2015"
         },
         "product-factor": {
           "title": "Facteur de Production",
-          "season": "Etés"
+          "period": "Etés 2015 / 2017"
         }
       }
     },
@@ -44,7 +55,7 @@
         "biology-licence": {
           "title": "Licence en Sciences de la Vie",
           "location": "Université de Strasbourg",
-          "description": "Mention Biologie Cellulaire et Physiologie des Organismes. CLES 2 Anglais."
+          "description": "Biologie Cellulaire et Physiologie des Organismes."
         },
         "bac": {
           "title": "Baccalauréat Scientifique",

@@ -12,6 +12,18 @@ const technologiesDetails = {
     website: 'http://redux.js.org/',
     description: 'Redux is a predictable state container for JavaScript apps'
   },
+  'Vuejs': {
+    website: 'https://vuejs.org/',
+    description: 'A progressive framework for building user interfaces'
+  },
+  'Confluence': {
+    website: 'https://fr.atlassian.com/software/confluence',
+    description: 'A content collaboration software for modern teams'
+  },
+  'Gradle': {
+    website: 'https://gradle.org/',
+    description: 'An open-source build automation tool focused on flexibility and performance'
+  },
   'ES6': {
     website: 'https://ecmascript.org/',
     description: 'ECMAScript is a standardized specification of JavaScript'
@@ -22,7 +34,7 @@ const technologiesDetails = {
   },
   'Apollo Client': {
     website: 'https://www.apollographql.com/client/',
-    description: 'Apollo Client is an ultra-flexible, community-driven GraphQL client for React, JavaScript, and native platforms.'
+    description: 'Apollo Client is an ultra-flexible, community-driven GraphQL client for React, JavaScript, and native platforms'
   },
   'RxJs': {
     website: 'http://reactivex.io/rxjs/',
@@ -47,6 +59,10 @@ const technologiesDetails = {
   'Socket.io': {
     website: 'http://socket.io/',
     description: 'A realtime application framework'
+  },
+  'Async.js': {
+    website: 'https://caolan.github.io/async/',
+    description: 'A utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript'
   },
   'Mongoose': {
     website: 'http://mongoosejs.com/',

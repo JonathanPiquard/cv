@@ -17,20 +17,31 @@
     "experience": {
       "title": "Experience",
       "items": {
+        "bonitasoft": {
+          "title": "Front-end Developer - Internship",
+          "description": [
+            "Reimplementing and modernizing the client application with ",
+            "_GWT_",
+            " React and Vuejs."
+          ],
+          "period": "January - June 2018"
+        },
         "rider": {
-          "title": "Rider"
+          "title": "Rider",
+          "period": "October 2017 - 2018"
         },
         "micro-entrepreneur": {
           "title": "Micro-entrepreneur",
-          "description": "Freelance : designing Websites, Native Mobile Applications and Softwares."
+          "description": "Freelance : designing Websites, Native Mobile Applications and Softwares.",
+          "period": "June 2016"
         },
         "computer-seller": {
           "title": "Computer Seller",
-          "season": "Summer"
+          "period": "Summer 2015"
         },
         "product-factor": {
           "title": "Product Factor",
-          "season": "Summers"
+          "period": "Summers 2015 / 2017"
         }
       }
     },
@@ -38,13 +49,13 @@
       "title": "Studies",
       "items": {
         "M1-info": {
-          "title": "Master 1 of Science in Informatics",
+          "title": "Master 1 of Informatics",
           "location": "University of Grenoble"
         },
         "biology-licence": {
           "title": "Bachelor's degree in Life Sciences",
           "location": "University of Strasbourg",
-          "description": "Mention Cell Biology and Physiology of Organisms. CLES 2 English."
+          "description": "Cell Biology and Physiology of Organisms."
         },
         "bac": {
           "title": "Scientific Baccalaureate",
