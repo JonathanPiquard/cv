@@ -14,7 +14,7 @@ i18n
     },
     debug: true,
 
-    lng: 'en', // you can change it by hand or drop it and implement some buttons over the CV to handle language switching
+    lng: 'fr', // you can change it by hand or drop it and implement some buttons over the CV to handle language switching
 
     // have a common namespace used around the full app
     ns: ['translations'],
