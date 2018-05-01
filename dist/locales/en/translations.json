@@ -62,19 +62,6 @@
           "location": "St-Etienne High School"
         }
       }
-    },
-    "hobbies": {
-      "title": "Hobbies",
-      "items": {
-        "cyclism": "cyclism",
-        "running": "running",
-        "art": "art",
-        "literature": "literature",
-        "philosophy": "philosophy",
-        "cinema": "cinema",
-        "short-film": "short-film",
-        "sciences": "sciences"
-      }
     }
   },
 
@@ -107,6 +94,19 @@
           "status": "stopped",
           "description": "Social network centered on your town."
         }
+      }
+    },
+    "hobbies": {
+      "title": "Hobbies",
+      "items": {
+        "cyclism": "cyclism",
+        "running": "running",
+        "art": "art",
+        "literature": "literature",
+        "philosophy": "philosophy",
+        "cinema": "cinema",
+        "short-film": "short-film",
+        "sciences": "sciences"
       }
     },
     "languages": {

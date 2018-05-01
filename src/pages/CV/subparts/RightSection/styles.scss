@@ -4,11 +4,6 @@
         > #webProjects {
             padding: 20px;
         }
-
-        > #languages {
-            padding-left: 20px;
-            padding-right: 20px;
-        }
     }
 }
 
@@ -16,11 +11,6 @@
     #rightSection {
         > #webProjects {
             padding: 46px;
-        }
-
-        > #languages {
-            padding-left: 46px;
-            padding-right: 46px;
         }
     }
 }
@@ -33,12 +23,7 @@
         padding-right: 27px;
 
         > #webProjects {
-            padding: 28px 32px;
-        }
-
-        > #languages {
-            padding-left: 32px;
-            padding-right: 32px;
+            padding: 32px;
         }
     }
 }
@@ -49,18 +34,18 @@
     flex: 1.1;
 
     > #webProjects {
-        margin-bottom: 12px;
         background-color: #8acc98;
         color: #fff;
     }
 
-    > #languages {
+    #languages {
         > .category-items {
             display: flex;
 
             > .category-item {
                 display: flex;
                 margin-top: 0;
+                margin-right: 16px;
 
                 > .category-item-description {
                     margin: 0 0 0 7.5px;

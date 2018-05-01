@@ -47,24 +47,27 @@ class RightSection extends Component {
               <p className='category-item-description'>{t('rightSection.webProjects.items.gmao-tailor.description')}</p>
               <BadgeList technologies badges={['Node.js', 'Socket.io', 'Angular', 'Angular Material', 'SASS', 'Paper.js', 'CodeMirror', 'Lodash', 'Grunt', 'Bower']} />
             </div>
-
-            <div className='category-item'>
-              <h4 className='category-item-title'>Headlings<span className='category-item-title-mention'> | {t('rightSection.webProjects.items.headlings.status')}</span></h4>
-              <p className='category-item-description'>{t('rightSection.webProjects.items.headlings.description')}</p>
-              <BadgeList technologies badges={['Sails.js', 'Socket.io', 'Angular', 'Bootstrap', 'Passport.js', 'Lodash', 'Grunt']} />
-            </div>
           </div>
         </div>
 
-        <div id='languages' className='category'>
-          <h3 className='category-title'>{t('rightSection.languages.title')}</h3>
-          <div className='category-items'>
-            <div className='category-item category-item-with-description'>
-              <h4 className='category-item-title'>{t('rightSection.languages.items.english')}</h4>
-              <p className='category-item-description'>| CLES 2</p>
+        <div className="container-categories">
+          <div className='category'>
+            <h3 className='category-title'>{t('rightSection.hobbies.title')}</h3>
+            <div className='category-items'>
+              <BadgeList badges={["cyclism", "running", "art", "literature", "philosophy", "cinema", "short-film", "sciences"].map((hobby) => t('rightSection.hobbies.items.' + hobby))} />
             </div>
-            <div className='category-item'>
-              <h4 className='category-item-title'>{t('rightSection.languages.items.spanish')}</h4>
+          </div>
+
+          <div id="languages" className='category'>
+            <h3 className='category-title'>{t('rightSection.languages.title')}</h3>
+            <div className='category-items'>
+              <div className='category-item category-item-with-description'>
+                <h4 className='category-item-title'>{t('rightSection.languages.items.english')}</h4>
+                <p className='category-item-description'>| CLES 2</p>
+              </div>
+              <div className='category-item'>
+                <h4 className='category-item-title'>{t('rightSection.languages.items.spanish')}</h4>
+              </div>
             </div>
           </div>
         </div>

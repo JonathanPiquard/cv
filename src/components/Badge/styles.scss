@@ -1,12 +1,19 @@
 
 @media (max-width: 429px) {
     .badge {
-      font-size: 11px;
-      line-height: 17px;
+      font-size: 9px;
+      line-height: 12px;
     }
 }
 
-@media (min-width: 430px) {
+@media (max-width: 729px) {
+    .badge {
+      font-size: 11px;
+      line-height: 16px;
+    }
+}
+
+@media (min-width: 730px) {
     .badge {
       font-size: 12px;
       line-height: 18px;
@@ -18,8 +25,8 @@
     text-align: center;
     display: inline-block;
     box-sizing: border-box;
-    padding: 0 4px;
     margin: 2px 2.5px;
+    padding: 0 4px;
     color: #fff;
 
     .tooltip {

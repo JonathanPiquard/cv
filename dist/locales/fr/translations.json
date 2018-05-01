@@ -62,19 +62,6 @@
           "location": "Lycée St-Etienne"
         }
       }
-    },
-    "hobbies": {
-      "title": "Passions",
-      "items": {
-        "cyclism": "cyclisme",
-        "running": "course à pied",
-        "art": "art",
-        "literature": "littérature",
-        "philosophy": "philosophie",
-        "cinema": "cinéma",
-        "short-film": "court-métrage",
-        "sciences": "sciences"
-      }
     }
   },
 
@@ -107,6 +94,19 @@
           "status": "arrêté",
           "description": "Réseau social centré sur sa ville."
         }
+      }
+    },
+    "hobbies": {
+      "title": "Passions",
+      "items": {
+        "cyclism": "cyclisme",
+        "running": "course à pied",
+        "art": "art",
+        "literature": "littérature",
+        "philosophy": "philosophie",
+        "cinema": "cinéma",
+        "short-film": "court-métrage",
+        "sciences": "sciences"
       }
     },
     "languages": {

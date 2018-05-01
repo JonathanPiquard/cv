@@ -13,7 +13,7 @@ class LeftSection extends Component {
     const { t } = this.props;
 
     return (
-      <section id='leftSection'>
+      <section id='leftSection' className="container-categories">
         <div className='category'>
           <h3 className='category-title'>{t('leftSection.about-me.title')}</h3>
           <p className='category-description'>{t('leftSection.about-me.description')}</p>
@@ -66,17 +66,6 @@ class LeftSection extends Component {
             </div>
           </div>
         </div>
-
-        {
-          /*
-            <div className='category'>
-              <h3 className='category-title'>{t('leftSection.hobbies.title')}</h3>
-              <div className='category-items'>
-                <BadgeList badges={["cyclism", "running", "art", "literature", "philosophy", "cinema", "short-film", "sciences"].map((hobby) => t('leftSection.hobbies.items.' + hobby))} />
-              </div>
-            </div>
-          */
-        }
 
       </section>
     );

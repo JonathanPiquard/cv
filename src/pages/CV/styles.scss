@@ -1,5 +1,9 @@
 
 @media (max-width: 429px) {
+    .container-categories {
+        padding: 10px;
+    }
+
     #container .category {
         padding: 10px;
 
@@ -42,6 +46,10 @@
 }
 
 @media (min-width: 430px) {
+    .container-categories {
+        padding: 30px;
+    }
+
     #container .category {
         padding: 12px 16px;
 
@@ -86,6 +94,10 @@
 }
 
 @media (min-width: 730px) {
+    .container-categories {
+        padding: 18px 9px 18px 18px;
+    }
+
     #container .category > .category-items {
         margin-left: 16px;
     }
@@ -128,6 +140,12 @@
     > article {
         display: flex;
         flex: 1;
+
+        .container-categories {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
 
         .category {
             > .category-title {

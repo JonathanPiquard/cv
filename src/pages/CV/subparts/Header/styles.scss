@@ -3,10 +3,14 @@
     #header > div {
         > div {
             line-height: 20px;
-            margin: 25px 20px 5px 30px;
+            margin: 25px 20px 20px 30px;
 
             > h1 {
                 font-size: 23px;
+            }
+
+            > h4 a span {
+                font-size: 11px;
             }
 
             > div h4 {
@@ -20,10 +24,14 @@
     #header > div {
         > div {
             line-height: 24px;
-            margin: 25px 20px 5px 30px;
+            margin: 25px 20px 20px 30px;
 
             > h1 {
                 font-size: 30px;
+            }
+
+            > h4 a span {
+                font-size: 12px;
             }
 
             > div h4 {
@@ -35,10 +43,14 @@
 
 @media (min-width: 550px) {
     #header > div > div {
-        margin: 40px 30px 12px 45px;
+        margin: 40px 30px 30px 45px;
 
         > h1 {
             font-size: 28px;
+        }
+
+        > h4 a span {
+            font-size: 13px;
         }
 
         > div h4 {
@@ -54,6 +66,10 @@
 
             > h1 {
                 font-size: 36px;
+            }
+
+            > h4 a span {
+                font-size: 14px;
             }
 
             > div h4 {
@@ -87,6 +103,10 @@
 
             > div {
                 margin: 5px 0 5px 16px;
+
+                > h4 a span {
+                    font-style: italic;
+                }
 
                 h4 {
                     margin: 0;
